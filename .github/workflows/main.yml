@@ -1,4 +1,4 @@
-name: HOT-WebUI Action
+name: HOT-UI-FT Action
 
 on: workflow_dispatch
 
