@@ -12,7 +12,7 @@ jobs:
         uses: ledzep70/fttraditional@main
         with:
           productpath: C:\Program Files\HCL\HCLOneTest12.2.4
-          project: C:\Users\praveen.rathor\HCL\hclonetest\ftwork\FunctionalTesterDemo  
+          projectdir: C:\Users\praveen.rathor\HCL\hclonetest\ftwork\FunctionalTesterDemo  
           suite: ClassicsJavaA
           logformat: xml
           
